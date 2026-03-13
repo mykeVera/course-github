@@ -1,3 +1,4 @@
 deps/
 extra.py
-important/
+# 01-snapshots/
+02-exploring-history/
